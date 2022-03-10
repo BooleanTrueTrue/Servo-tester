@@ -1,5 +1,5 @@
 # Servo-tester
-to test servos!
+For testing servos!
 
 Data is attached to pin 9.
 
